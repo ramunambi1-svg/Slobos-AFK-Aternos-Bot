@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "swordart.mcsh.io",
+    "ip": "playsword.play.hosting",
     "port": 25565,
     "version": "",
     "try-creative": false
