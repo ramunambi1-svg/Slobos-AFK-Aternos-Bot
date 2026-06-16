@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "swordart.play.hosting",
-    "port": 25565,
-    "version": "",
+    "ip": "TSxVICHU.play.hosting",
+    "port": 30229,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
