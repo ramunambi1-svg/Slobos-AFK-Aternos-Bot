@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TSxVICHU.play.hosting",
-    "port": 30229,
+    "ip": "163.5.201.10:14643",
+    "port": 14643,
     "version": "1.21.1",
     "try-creative": false
   },
