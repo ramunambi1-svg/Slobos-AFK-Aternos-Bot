@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "goosest",
+    "username": "notch",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "163.5.201.10:14643",
-    "port": 14643,
-    "version": "1.21.1",
+    "ip": "TSxVICHU.aternos.me",
+    "port": 15307,
+    "version": "",
     "try-creative": false
   },
   "position": {
